@@ -1,0 +1,7 @@
+setup.py
+pixy2_raw_frame.egg-info/PKG-INFO
+pixy2_raw_frame.egg-info/SOURCES.txt
+pixy2_raw_frame.egg-info/dependency_links.txt
+pixy2_raw_frame.egg-info/not-zip-safe
+pixy2_raw_frame.egg-info/requires.txt
+pixy2_raw_frame.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+/home/qori/Documents/Tesis/pixy2_raw_frame/lib/CMakeFiles/test.dir
+/home/qori/Documents/Tesis/pixy2_raw_frame/lib/CMakeFiles/edit_cache.dir
+/home/qori/Documents/Tesis/pixy2_raw_frame/lib/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+/home/qori/Github/pixy2-libusb2-python/CMakeFiles/pixy2_raw_frame.dir
+/home/qori/Github/pixy2-libusb2-python/CMakeFiles/edit_cache.dir
+/home/qori/Github/pixy2-libusb2-python/CMakeFiles/rebuild_cache.dir
+/home/qori/Github/pixy2-libusb2-python/pybind11/CMakeFiles/edit_cache.dir
+/home/qori/Github/pixy2-libusb2-python/pybind11/CMakeFiles/rebuild_cache.dir

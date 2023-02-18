@@ -1,0 +1,5 @@
+/home/qori/Github/pixy2-libusb2-python/build/temp.linux-x86_64-3.10/pixy2_raw_frame/CMakeFiles/pixy2_raw_frame.dir
+/home/qori/Github/pixy2-libusb2-python/build/temp.linux-x86_64-3.10/pixy2_raw_frame/CMakeFiles/edit_cache.dir
+/home/qori/Github/pixy2-libusb2-python/build/temp.linux-x86_64-3.10/pixy2_raw_frame/CMakeFiles/rebuild_cache.dir
+/home/qori/Github/pixy2-libusb2-python/build/temp.linux-x86_64-3.10/pixy2_raw_frame/pybind11/CMakeFiles/edit_cache.dir
+/home/qori/Github/pixy2-libusb2-python/build/temp.linux-x86_64-3.10/pixy2_raw_frame/pybind11/CMakeFiles/rebuild_cache.dir

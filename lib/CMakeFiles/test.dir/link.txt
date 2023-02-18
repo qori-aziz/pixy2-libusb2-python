@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/tes.cpp.o -o test  libpixy2.a -lusb-1.0 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -flto -shared  -o ../../lib.linux-x86_64-3.10/pixy2_raw_frame.cpython-310-x86_64-linux-gnu.so CMakeFiles/pixy2_raw_frame.dir/src/main.cpp.o   -L/home/qori/Github/pixy2-libusb2-python/build/temp.linux-x86_64-3.10/pixy2_raw_frame/lib  -Wl,-rpath,/home/qori/Github/pixy2-libusb2-python/build/temp.linux-x86_64-3.10/pixy2_raw_frame/lib -lpixy2 -lusb-1.0 
